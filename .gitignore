@@ -1,0 +1,19 @@
+# Nextflow work directory
+work/
+.nextflow/
+.nextflow.log*
+
+# Nextflow command files
+.command.*
+
+# Results and data (too large for GitHub)
+rnaseq/
+results/
+
+# Logs
+*.log
+logs/
+
+# AWS credentials
+*.pem
+*.key
