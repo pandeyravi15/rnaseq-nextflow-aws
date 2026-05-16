@@ -1,0 +1,1 @@
+/home/ec2-user/projects/nextflow_pipeline/work/a3/903c8ce2e55d484aacaf7125156a13/counts_matrix.txt

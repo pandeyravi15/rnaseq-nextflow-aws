@@ -1,0 +1,25 @@
+=== DESeq2 Analysis Starting ===
+Genes: 43629 | Samples: 30 
+AD: 15 | WT: 15 
+Genes after filtering: 23343 
+Running DESeq2...
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+-- replacing outliers and refitting for 13 genes
+-- DESeq argument 'minReplicatesForReplace' = 7 
+-- original counts are preserved in counts(dds)
+estimating dispersions
+fitting model and testing
+'select()' returned 1:many mapping between keys and columns
+
+=== RESULTS ===
+Significant genes: 2339 
+Upregulated: 1256 
+Downregulated: 1083 
+Results saved!
+Volcano plot saved!
+=== Analysis Complete ===

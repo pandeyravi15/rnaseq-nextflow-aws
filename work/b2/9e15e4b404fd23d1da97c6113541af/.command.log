@@ -1,0 +1,22 @@
+Uploading to S3...
+upload: ./.command.begin to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.begin
+Completed 0 Bytes/3.7 MiB (0 Bytes/s) with 9 file(s) remainingCompleted 1.0 MiB/3.7 MiB (27.0 MiB/s) with 9 file(s) remainingCompleted 2.0 MiB/3.7 MiB (44.9 MiB/s) with 9 file(s) remainingCompleted 3.0 MiB/3.7 MiB (62.0 MiB/s) with 9 file(s) remainingCompleted 3.3 MiB/3.7 MiB (38.7 MiB/s) with 9 file(s) remainingCompleted 3.6 MiB/3.7 MiB (41.9 MiB/s) with 9 file(s) remainingCompleted 3.6 MiB/3.7 MiB (37.6 MiB/s) with 9 file(s) remainingupload: ./.command.log to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.log
+Completed 3.6 MiB/3.7 MiB (37.6 MiB/s) with 8 file(s) remainingCompleted 3.6 MiB/3.7 MiB (30.1 MiB/s) with 8 file(s) remainingupload: ./.command.run to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.run
+Completed 3.6 MiB/3.7 MiB (30.1 MiB/s) with 7 file(s) remainingupload: ./.command.trace to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.trace
+Completed 3.6 MiB/3.7 MiB (30.1 MiB/s) with 6 file(s) remainingCompleted 3.6 MiB/3.7 MiB (29.6 MiB/s) with 6 file(s) remainingupload: ./.command.out to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.out
+Completed 3.6 MiB/3.7 MiB (29.6 MiB/s) with 5 file(s) remainingupload: ./.command.err to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.err
+Completed 3.6 MiB/3.7 MiB (29.6 MiB/s) with 4 file(s) remainingCompleted 3.6 MiB/3.7 MiB (28.2 MiB/s) with 4 file(s) remainingupload: ./.command.sh to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/.command.sh
+Completed 3.6 MiB/3.7 MiB (28.2 MiB/s) with 3 file(s) remainingupload: ./significant_genes.csv to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/significant_genes.csv
+Completed 3.6 MiB/3.7 MiB (28.2 MiB/s) with 2 file(s) remainingCompleted 3.7 MiB/3.7 MiB (23.7 MiB/s) with 2 file(s) remainingupload: ./all_genes.csv to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/all_genes.csv
+Completed 3.7 MiB/3.7 MiB (23.7 MiB/s) with 1 file(s) remainingupload: ./volcano_plot.png to s3://ravi-pandey-bioinformatics/rnaseq/results/nextflow/volcano_plot.png
+Upload complete!
+2026-05-16 03:21:19    0 Bytes .command.begin
+2026-05-16 03:21:19    0 Bytes .command.err
+2026-05-16 03:21:19   19 Bytes .command.log
+2026-05-16 03:21:19   19 Bytes .command.out
+2026-05-16 03:21:19   10.0 KiB .command.run
+2026-05-16 03:21:19  221 Bytes .command.sh
+2026-05-16 03:21:19    0 Bytes .command.trace
+2026-05-16 03:21:19    3.1 MiB all_genes.csv
+2026-05-16 03:21:19  321.0 KiB significant_genes.csv
+2026-05-16 03:21:19  325.2 KiB volcano_plot.png
