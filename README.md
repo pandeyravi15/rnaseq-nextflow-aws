@@ -81,11 +81,6 @@ Applied to 3xTgAD vs WT cortex data (30 samples, 43,629 genes):
 - **Upregulated in AD:** Spp1, Lpl, Tyrobp, Hexb (neuroinflammation)
 - **Downregulated in AD:** Bin1, Camk2a (synaptic dysfunction)
 
-## Related Publications
-
-- Pandey RS et al. (2024) Sex-specific metabolomic signatures in AD mouse models. *Alzheimer's & Dementia*
-- Pandey RS et al. (2023) Differential splicing in Trem2*R47H AD model. *BMC Genomics*
-
 ## Author
 
 **Ravi Shanker Pandey, Ph.D.**  
